@@ -1,8 +1,8 @@
 mapanet.eu public datasets. All files are in CSV format, with UTF-8 encoding and ; as delimiter.
 
-Admin-Regions.csv All official administrative division names included in the mapanet.eu datasets.
+### Admin-Regions.csv All official administrative division names included in the mapanet.eu datasets.
 
-<table class="tbl2">
+<table>
 	<tr><th>Field</th><th>Type</th><th>Description</th><th>Key</th></tr>
 	<tr><td>ISO<td>varchar(2)</td><td>ISO-3166-1</td><td>PK</td></tr>
 	<tr><td>Language<td>varchar(2)</td><td>ISO 639-1</td><td>PK</td></tr>
@@ -25,10 +25,10 @@ Admin-Regions.csv All official administrative division names included in the map
 </table>
 
 
-Countries.csv
-Country codes and names with their postal code schemes. This list is based on the cartographic section of the United Nations.
+###Countries.csv
+###Country codes and names with their postal code schemes. This list is based on the cartographic section of the United Nations.
 
-<table class="tbl2">
+<table>
 	<tr><th>Field</th><th>Type</th><th>Description</th><th>Key</th></tr>
 	<tr><td>ISO<td>varchar(2)</td><td>ISO-3166-1 code</td><td>PK</td></tr>
 	<tr><td>Country<td>nvarchar(45)</td><td>Name</td><td>PK</td></tr>
@@ -38,7 +38,7 @@ Country codes and names with their postal code schemes. This list is based on th
 	<tr><td>Currency<td>varchar(3)</td><td>ISO 4217 code</td><td>&nbsp;</td></tr>
 </table>
 
-Country names in: Native, English, Spanish, Catalan, Italian, French, German, Russian and Arabic.
+### Country names in: Native, English, Spanish, Catalan, Italian, French, German, Russian and Arabic.
 
 <table class="tbl2">
 	<tr><th>Field</th><th>Type</th><th>Description</th><th>Key</th></tr>
