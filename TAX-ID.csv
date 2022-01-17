@@ -1,0 +1,31 @@
+﻿ISO	name	format	length	regex	abrevName	localName
+AT	Austria	ATU99999999	11	^ATU[0-9]{8}$	UID	Umsatzsteuer-Identifikationsnummer
+BE	Belgium	BE0999999999	12	^BE0[0-9]{9}$	TVA	BTW nummer
+BG	Bulgaria	BG9999999999	09-10	^BG[0-9]{9,10}$	ДДС(номер)	Identifikacionen nomer po DDS
+HR	Croatia	HR99999999999	13	^HR\d{11}$	PDV/OIB	PDV Id. Broj OIB
+CY	Cyprus	CY99999999L	11	^CY[0-9]{8}L$	ΦΠΑ	Arithmós Engraphes phi. pi. a.
+CZ	Czech Republic	CZ9999999999	10-12	^CZ[0-9]{8,10}$	DIČ	Danové identifikacní císlo
+DK	Denmark	DK99999999	10	^DK[0-9]{8}$	CVR	Momsregistreringsnummer
+EE	Estonia	EE999999999	11	^EE[0-9]{9}$	KMKR	Käibemaksukohustuslase number
+FI	Finland	FI99999999	11	^FI[0-9]{8}$	ALV	Arvonlisäveronumero
+FR	France	FR99999999999	13	^FR[0-9A-Z]{2}[0-9]{9}$	TVA	Numéro de TVA
+DE	Germany	DE999999999	11	^DE[0-9]{9}$	UST	Umsatzsteuer-Identifikationsnummer
+GR	Greece	GR999999999	11	^(EL|GR)[0-9]{9}$	ΑΦΜ	Arithmós Phorologikoú Metroou
+HU	Hungary	HU99999999	10	^HU[0-9]{8}$	ANUM	Közösségi adószám
+IE	Ireland	IE9S99999L	10	^IE[0-9]S[0-9]{5}L$	VAT	Value added tax identification no
+IT	Italy	IT99999999999	13	^IT[0-9]{11}$	IVA	Partita IVA
+LV	Latvia	LV99999999999	13	^LV[0-9]{11}$	PVN	PVN registracijas numurs
+LT	Lithuania	LT999999999999	11-14	^LT([0-9]{9}|[0-9]{12})$	PVM	Pridetines vertes mokestis moketojo kodas
+LU	Luxembourg	LU99999999	10	^(LU)?[0-9]{8}$	TVA	Numéro de TVA
+MT	Malta	99999999	8	^MT[0-9]{8}$	VAT	Vat reg. no.
+MX	Mexico	XXXX999999XXX	12-13	^([A-ZÑ\x26]{3,4}([0-9]{2})(0[1-9]|1[0-2])(0[1-9]|1[0-9]|2[0-9]|3[0-1])[A-Z|\d]{3})$	RFC	Registro Federal de Contribuyentes
+NL	Netherlands	NL999999999B99	14	^NL[0-9]{9}B[0-9]{2}$	BTW	BTW nummer
+PL	Poland	PL9999999999	12	^PL[0-9]{10}$	NIP	Numer Identyfikacji Podatkowej
+PT	Portugal	PT999999999	11	^PT[0-9]{9}$	NIF/NIPC	Número de Identificação Fiscal
+RO	Romania	RO999999999999	2-14	^(RO)?[0-9]{2,10}$	CIF	Cod de înregistrare în scopuri de TVA
+SK	Slovakia	SK9999999999	12	^SK[0-9]{10}$	IČ DPH	Identifikacné císlo pre dan z pridanej hodnoty
+SI	Slovenia	SI99999999	10	^SI[0-9]{8}$	DDV	Davcna številka
+ES	Spain	ESX9999999X	11	^ES[0-9A-Z][0-9]{7}[0-9A-Z]$	NIF/CIF	Número de Identificación Fiscal
+SE	Sweden	SE999999999999	14	^SE[0-9]{12}$	VAT	VAT-nummer or momsnummer
+GB	United Kingdom	GB9999999999	5-12	^GB([0-9]{9}([0-9]{3})?|[A-Z]{2}[0-9]{3})$	VAT	Value Added Tax registration number
+US	USA	99-9999999	10	^\d{2}-\d{7}$	EIN	Employer Identification Number

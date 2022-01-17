@@ -1,0 +1,253 @@
+﻿ISO	Country	Sovereign	Language	LanguagePC	Currency
+AF	Afghanistan	AF	FA        	EN	AFN
+AX	Åland Islands	FI	SV        	FI,SV	EUR
+AL	Albania	AL	SQ        	SQ	ALL
+DZ	Algeria	DZ	AR        	FR	DZD
+AS	American Samoa	US	EN        	EN	USD
+AD	Andorra	AD	CA        	CA	EUR
+AO	Angola	AO	PT        	PT	AOA
+AI	Anguilla	GB	EN        	EN	XCD
+AQ	Antarctica	AU	EN        	EN	AUD
+AG	Antigua and Barbuda	AG	EN        	EN	XCD
+AR	Argentina	AR	ES        	ES	ARS
+AM	Armenia	AM	HY        	EN,HY	AMD
+AW	Aruba	NL	NL        	NL	AWG
+AU	Australia	AU	EN        	EN	AUD
+AT	Austria	AT	DE        	DE	EUR
+AZ	Azerbaijan	AZ	AZ        	EN,AZ	AZN
+BS	Bahamas	BS	EN        	EN	BSD
+BH	Bahrain	BH	AR        	EN	BHD
+BD	Bangladesh	BD	BN        	EN	BDT
+BB	Barbados	BB	EN        	EN	BBD
+BY	Belarus	BY	BE        	EN,RU	BYR
+BE	Belgium	BE	FR        	FR,NL	EUR
+BZ	Belize	BZ	EN        	EN	BZD
+BJ	Benin	BJ	FR        	FR	XOF
+BM	Bermuda	GB	EN        	EN	BMD
+BT	Bhutan	BT	DZ        	EN	BTN
+BO	Bolivia	BO	ES        	ES	BOB
+BQ	Bonaire, Sint Eustatius and Saba	NL	NL        	NL	USD
+BA	Bosnia and Herzegovina	BA	BS        	BS	BAM
+BW	Botswana	BW	EN        	EN	BWP
+BV	Bouvet Island	NO	NO        	EN,NO	NOK
+BR	Brazil	BR	PT        	PT	BRL
+IO	British Indian Ocean Territory	GB	EN        	EN	USD
+VG	British Virgin Islands	GB	EN        	EN	USD
+BN	Brunei Darussalam	BN	MS        	EN	BND
+BG	Bulgaria	BG	BG        	EN,BG	EUR
+BF	Burkina Faso	BF	FR        	FR	XOF
+BI	Burundi	BI	FR        	FR	BIF
+KH	Cambodia	KH	KM        	EN	KHR
+CM	Cameroon	CM	FR        	FR	XAF
+CA	Canada	CA	EN        	EN	CAD
+CV	Cape Verde	CV	PT        	PT	CVE
+KY	Cayman Islands	GB	EN        	EN	KYD
+CF	Central African Republic	CF	FR        	FR	XAF
+TD	Chad	TD	FR        	FR	XAF
+CL	Chile	CL	ES        	ES	CLP
+CN	China	CN	ZH        	EN,ZH	CNY
+CX	Christmas Island	AU	EN        	EN	AUD
+CP	Clipperton Island	FR	FR        	FR	EUR
+CC	Cocos (Keeling) Islands	AU	MS        	EN,MS	AUD
+CO	Colombia	CO	ES        	ES	COP
+KM	Comoros	KM	AR        	EN	KMF
+CD	Congo DR	CD	FR        	FR	CDF
+CG	Congo-Brazzaville	CG	FR        	FR	XAF
+CK	Cook Islands	NZ	EN        	EN	NZD
+CR	Costa Rica	CR	ES        	ES	CRC
+CI	Côte D'Ivoire	CI	FR        	FR	XOF
+HR	Croatia	HR	HR        	HR	HRK
+CU	Cuba	CU	ES        	ES	CUP
+CW	Curaçao	NL	NL        	NL	ANG
+CY	Cyprus	CY	EL        	EN,EL	EUR
+CZ	Czechia	CZ	CS        	CS	EUR
+DK	Denmark	DK	DA        	DA	EUR
+DJ	Djibouti	DJ	FR        	FR	DJF
+DM	Dominica	DM	EN        	EN	XCD
+DO	Dominican Republic	DO	ES        	ES	DOP
+TL	East Timor	TL	TE        	EN	USD
+EC	Ecuador	EC	ES        	ES	USD
+EG	Egypt	EG	AR        	EN	EGP
+SV	El Salvador	SV	ES        	ES	USD
+GQ	Equatorial Guinea	GQ	ES        	ES	XAF
+ER	Eritrea	ER	AA        	EN	ERN
+EE	Estonia	EE	ET        	ET	EEK
+ET	Ethiopia	ET	AM        	EN	ETB
+FK	Falkland Islands	GB	EN        	EN	FKP
+FO	Faroe Islands	DK	FO        	FO	DKK
+FJ	Fiji	FJ	EN        	EN	FJD
+FI	Finland	FI	FI        	FI,SV	EUR
+FR	France	FR	FR        	FR	EUR
+GF	French Guiana	FR	FR        	FR	EUR
+PF	French Polynesia	FR	FR        	FR	XPF
+TF	French Southern Territories	FR	FR        	FR	EUR
+GA	Gabon	GA	FR        	FR	XAF
+GM	Gambia	GM	EN        	EN	GMD
+GE	Georgia	GE	KA        	EN	GEL
+DE	Germany	DE	DE        	DE	EUR
+GH	Ghana	GH	EN        	EN	GHS
+GI	Gibraltar	GB	EN        	EN	GIP
+GR	Greece	GR	EL        	EN,EL	EUR
+GL	Greenland	DK	KL        	DA	DKK
+GD	Grenada	GD	EN        	EN	XCD
+GP	Guadeloupe	FR	FR        	FR	EUR
+GU	Guam	US	EN        	EN	USD
+GT	Guatemala	GT	ES        	ES	GTQ
+GG	Guernsey	GB	EN        	EN	GBP
+GN	Guinea	GN	FR        	FR	GNF
+GW	Guinea-Bissau	GW	PT        	PT	XOF
+GY	Guyana	GY	EN        	EN	GYD
+HT	Haiti	HT	HT        	FR	HTG
+HM	Heard Island and McDonald Islands	AU	EN        	EN	AUD
+HN	Honduras	HN	ES        	ES	HNL
+HK	Hong Kong	CN	ZH        	EN	HKD
+HU	Hungary	HU	HU        	HU	EUR
+IS	Iceland	IS	IS        	IS	ISK
+IN	India	IN	TA        	EN	INR
+ID	Indonesia	ID	ID        	EN	IDR
+IR	Iran	IR	FA        	EN	IRR
+IQ	Iraq	IQ	AR        	EN,AR	IQD
+IE	Ireland	IE	EN        	EN,GA	EUR
+IM	Isle of Man	GB	EN        	EN	GBP
+IL	Israel	IL	HE        	EN,HE	ILS
+IT	Italy	IT	IT        	IT	EUR
+JM	Jamaica	JM	EN        	EN	JMD
+JP	Japan	JP	JA        	EN,JA,AI	JPY
+JE	Jersey	GB	EN        	EN	GBP
+JO	Jordan	JO	AR        	EN	JOD
+KZ	Kazakhstan	KZ	KK        	EN,RU	KZT
+KE	Kenya	KE	SW        	EN	KES
+KI	Kiribati	KI	EN        	EN	AUD
+XK	Kosovo	XK	SR        	EN,SQ,SR	EUR
+KW	Kuwait	KW	AR        	EN,AR	KWD
+KG	Kyrgyzstan	KG	KY        	EN,RU	KGS
+LA	Laos	LA	LO        	EN	LAK
+LV	Latvia	LV	LV        	LV	EUR
+LB	Lebanon	LB	AR        	EN,AR	LBP
+LS	Lesotho	LS	EN        	EN	LSL
+LR	Liberia	LR	EN        	EN	LRD
+LY	Libya	LY	AR        	EN	LYD
+LI	Liechtenstein	LI	DE        	DE	CHF
+LT	Lithuania	LT	LT        	LT	LTL
+LU	Luxembourg	LU	FR        	FR	EUR
+MO	Macau	CN	ZH        	EN	MOP
+MK	Macedonia	MK	MK        	EN,MK	MKD
+MG	Madagascar	MG	FR        	FR	MGA
+MW	Malawi	MW	NY        	EN	MWK
+MY	Malaysia	MY	MS        	EN	MYR
+MV	Maldives	MV	DI        	EN	MVR
+ML	Mali	ML	FR        	FR	XOF
+MT	Malta	MT	MT        	EN,MT	EUR
+MH	Marshall Islands	US	MH        	EN,MH	USD
+MQ	Martinique	FR	FR        	FR	EUR
+MR	Mauritania	MR	AR        	EN	MRO
+MU	Mauritius	MU	EN        	EN	MUR
+YT	Mayotte	FR	FR        	FR	EUR
+MX	Mexico	MX	ES        	ES	MXN
+FM	Micronesia	US	EN        	EN	USD
+MD	Moldova	MD	RO        	RO	MDL
+MC	Monaco	MC	FR        	FR	EUR
+MN	Mongolia	MN	MN        	EN,MN	MNT
+ME	Montenegro	ME	SR        	EN	EUR
+MS	Montserrat	GB	EN        	EN	XCD
+MA	Morocco	MA	AR        	FR	MAD
+MZ	Mozambique	MZ	PT        	PT	MZN
+MM	Myanmar (Burma)	MM	MY        	EN	MMK
+NA	Namibia	NA	EN        	EN	NAD
+NR	Nauru	NR	NA        	EN	AUD
+NP	Nepal	NP	NE        	EN	NPR
+NL	Netherlands	NL	NL        	NL	EUR
+AN	Netherlands Antilles	NL	NL        	NL	ANG
+NC	New Caledonia	FR	FR        	FR	XPF
+NZ	New Zealand	NZ	EN        	EN	NZD
+NI	Nicaragua	NI	ES        	ES	NIO
+NE	Niger	NE	FR        	FR	XOF
+NG	Nigeria	NG	EN        	EN	NGN
+NU	Niue	NZ	NI        	EN	NZD
+NF	Norfolk Island	AU	EN        	EN	AUD
+KP	North Korea	KP	KO        	EN	KPW
+MP	Northern Mariana Islands	US	FI        	EN	USD
+NO	Norway	NO	NO        	NO	NOK
+OM	Oman	OM	AR        	EN	OMR
+PK	Pakistan	PK	UR        	EN	PKR
+PW	Palau	PW	PW        	EN,PW	USD
+PS	Palestine	PS	AR        	EN,AR	ILS
+PA	Panama	PA	ES        	ES	PAB
+PG	Papua New Guinea	PG	EN        	EN	PGK
+PY	Paraguay	PY	ES        	ES	PYG
+PE	Peru	PE	ES        	ES	PEN
+PH	Philippines	PH	EN        	EN	PHP
+PN	Pitcairn Islands	GB	EN        	EN	NZD
+PL	Poland	PL	PL        	PL	EUR
+PT	Portugal	PT	PT        	PT	EUR
+PR	Puerto Rico	US	ES        	ES	USD
+QA	Qatar	QA	AR        	EN	QAR
+RE	Réunion	FR	FR        	FR	EUR
+RO	Romania	RO	RO        	RO	RON
+RU	Russia	RU	RU        	EN,RU	RUB
+RW	Rwanda	RW	RW        	FR	RWF
+EH	Sahrawi Arab (Western Sahara)	EH	AR        	EN	MAD
+BL	Saint Barthélemy	FR	FR        	FR	EUR
+SH	Saint Helena, Ascension and Tristan Da Cunha	GB	EN        	EN	SHP
+KN	Saint Kitts and Nevis	KN	EN        	EN	XCD
+LC	Saint Lucia	LC	EN        	EN	XCD
+MF	Saint Martin	FR	FR        	FR	EUR
+PM	Saint Pierre and Miquelon	FR	FR        	FR	EUR
+VC	Saint Vincent and the Grenadines	VC	EN        	EN	XCD
+WS	Samoa	WS	SM        	SM	WST
+SM	San Marino	SM	IT        	IT	EUR
+ST	São Tomé and Príncipe	ST	PT        	PT	STD
+SA	Saudi Arabia	SA	AR        	EN,AR	SAR
+SN	Senegal	SN	FR        	FR	XOF
+RS	Serbia	RS	SR        	EN,SR	RSD
+SC	Seychelles	SC	EN        	EN	SCR
+SL	Sierra Leone	SL	EN        	EN	SLL
+SG	Singapore	SG	ZH        	EN	SGD
+SX	Sint Maarten	NL	NL        	NL	ANG
+SK	Slovakia	SK	SK        	SK	EUR
+SI	Slovenia	SI	SL        	SL	EUR
+SB	Solomon Islands	SB	EN        	EN	SBD
+SO	Somalia	SO	SO        	EN	SOS
+ZA	South Africa	ZA	EN        	EN	ZAR
+GS	South Georgia and the South Sandwich Islands	GB	EN        	EN	GBP
+KR	South Korea	KR	KO        	EN,KO	KRW
+SS	South Sudan	SS	AR        	EN	SSP
+ES	Spain	ES	ES        	ES	EUR
+LK	Sri Lanka	LK	SI        	EN	LKR
+SD	Sudan	SD	AR        	EN	SDG
+SR	Suriname	SR	NL        	NL	SRD
+SJ	Svalbard and Jan Mayen	NO	NO        	NO	NOK
+SZ	Swaziland	SZ	EN        	EN	SZL
+SE	Sweden	SE	SV        	SV	EUR
+CH	Switzerland	CH	DE        	DE,FR,IT	CHF
+SY	Syria	SY	SY        	EN,AR	SYP
+TW	Taiwan	CN	CH        	EN,ZH	TWD
+TJ	Tajikistan	TJ	TG        	EN	TJS
+TZ	Tanzania	TZ	SW        	EN	TZS
+TH	Thailand	TH	TH        	EN,TH	THB
+TG	Togo	TG	FR        	FR	XOF
+TK	Tokelau	NZ	TK        	EN	NZD
+TO	Tonga	TO	TO        	EN	TOP
+TT	Trinidad and Tobago	TT	EN        	EN	TTD
+TN	Tunisia	TN	AR        	FR	TND
+TR	Turkey	TR	TR        	TR	TRY
+TM	Turkmenistan	TM	TK        	EN	TMT
+TC	Turks and Caicos	GB	EN        	EN	USD
+TV	Tuvalu	TV	TV        	EN	AUD
+UG	Uganda	UG	EN        	EN	UGX
+UA	Ukraine	UA	UK        	EN,UK	UAH
+AE	United Arab Emirates	AE	AR        	EN	AED
+GB	United Kingdom	GB	EN        	EN	GBP
+US	United States	US	EN        	EN	USD
+UM	United States Minor Outlying Islands	US	EN        	EN	USD
+UY	Uruguay	UY	ES        	ES	UYU
+VI	US Virgin Islands	US	EN        	EN	USD
+UZ	Uzbekistan	UZ	UZ        	EN,RU	UZS
+VU	Vanuatu	VU	BI        	EN	VUV
+VA	Vatican	VA	LA        	LA	EUR
+VE	Venezuela	VE	ES        	ES	VEF
+VN	Viet Nam	VN	VI        	VI	VND
+WF	Wallis and Futuna	FR	WL        	FR	XPF
+YE	Yemen	YE	AR        	EN,AR	YER
+ZM	Zambia	ZM	EN        	EN	ZMK
+ZW	Zimbabwe	ZW	EN        	EN	ZWL
